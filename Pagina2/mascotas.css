@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(158, 218, 198);
+}
+h1 {
+    color: rgb(18, 18, 230); font-style: oblique; 
+    border: solid black; border-width: 5px;
+    padding: 1vw ;  
+    width: fit-content;
+
+}
+.subtitle {
+    font-size: 25px;
+}
+p {
+    font-size: 15px;
+}
+h2 {
+    color: cadetblue; 
+    text-decoration: underline;
+}
+h3 {
+    font-size: 25px;
+    color: crimson; 
+    text-decoration: underline;
+    padding: 2em;
+}
+h4 {
+    font-size: 20px;
+}
+.perro {
+    width: 200px;
+    display: flex;
+    align-items:flex-start;
+
+}
